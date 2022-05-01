@@ -1,6 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+This project is called Movies. It was developed during a React Js course with
+the aim to apply its concepts. It is a web application that uses an API. The
+web application extracts movies information from the API, such as title,
+image, description, and trailer and renders them. The user can have a list of
+favourite movies and alter it anytime.
+Knowledge applied in this project:
+HTML5, CSS, JavaScript ES6, React JS and API.
 
 ## Available Scripts
 
